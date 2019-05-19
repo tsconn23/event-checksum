@@ -34,7 +34,7 @@ func NewBinaryEvent() (data []byte, err error) {
 	readings := []models.Reading{}
 	readings = append(readings, models.Reading{Created:timestamp, Modified:timestamp, Device:deviceName, Name:"Reading2", Value:"789"})
 	readings = append(readings, models.Reading{Created:timestamp, Modified:timestamp, Device:deviceName, Name:"Reading1", Value:"XYZ"})
-	readings = append(readings, models.Reading{Created:timestamp, Modified:timestamp, Device:deviceName, Name:"Reading1", BinaryValue:bytes})
+	readings = append(readings, models.Reading{Created:timestamp, Modified:timestamp, Device:deviceName, Name:"Reading3", BinaryValue:bytes})
 	evt.Readings = readings
 
 	var handle codec.CborHandle
