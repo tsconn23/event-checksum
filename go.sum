@@ -3,6 +3,8 @@ github.com/edgexfoundry/go-mod-core-contracts v0.0.0-20190418185811-6fa3b1fed53b
 github.com/edgexfoundry/go-mod-core-contracts v0.0.0-20190418185811-6fa3b1fed53b/go.mod h1:yVAVTeH1lbp+3YG2V7sq3iIerZj94lC0rZX1sryGfTY=
 github.com/edgexfoundry/go-mod-core-contracts v0.0.0-20190515170337-eeea036f04bd h1:FMctg6nqkKZKKfxFZMamuzz+QihGQFq5Wt9pSE2Gbls=
 github.com/edgexfoundry/go-mod-core-contracts v0.0.0-20190515170337-eeea036f04bd/go.mod h1:yVAVTeH1lbp+3YG2V7sq3iIerZj94lC0rZX1sryGfTY=
+github.com/edgexfoundry/go-mod-core-contracts v0.1.0 h1:GpmIN5RwtD+bQQYiC/1YChDhHFA402rg7muQl/mpIec=
+github.com/edgexfoundry/go-mod-core-contracts v0.1.0/go.mod h1:wUlH4D1HdWNExL6Tel9enMmiWMpVnfPnyVttZ9Ap32M=
 github.com/go-kit/kit v0.8.0/go.mod h1:xBxKIO96dXMWWy0MnWVtmwkA9/13aqxPnvrjFYMA2as=
 github.com/go-logfmt/logfmt v0.4.0/go.mod h1:3RMwSq7FuexP4Kalkev3ejPJsZTpXXBr9+V4qmtdjCk=
 github.com/google/uuid v1.1.0 h1:Jf4mxPC/ziBnoPIdpQdPJ9OeiomAUHLvxmPRSPH9m4s=
