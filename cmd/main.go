@@ -49,7 +49,7 @@ func main() {
 
 		client := coredata.NewEventClient(params, mock.MockEndpoint{})
 
-		ctx := context.WithValue(context.Background(),clients.ContentType, clients.ContentTypeCBOR)
+		ctx := context.WithValue(context.Background(),clients.ContentType, "application/CBOR")
 		id, err := client.AddBytes(data, ctx)
 		if err != nil {
 			fmt.Printf("error %s\r\n", err.Error())
